@@ -6,7 +6,7 @@ Demo预览
 
 git clone https://github.com/web-leilei/Vue-Router-Demo.git
 
-cd mi-shop
+cd vue-router-demo
 
 npm install
 
