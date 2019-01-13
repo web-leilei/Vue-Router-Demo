@@ -1,5 +1,9 @@
-1.在根目录加上exact
-<li><router-link exact to="/">首页</router-link></li>
-2.在路由里配置全局高亮class
-linkActiveClass:"active",
-3.在app.vue的style定义样式即可
+Demo预览
+![image](http://leilei.leileiqq.com/upload/201901/12/201901121312133460.gif)  
+
+Install
+
+git clone https://github.com/web-leilei/Vue-Router-Demo.git
+cd mi-shop
+npm install
+npm run dev
