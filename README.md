@@ -2,7 +2,7 @@ Demo预览
 
 ![image](http://leilei.leileiqq.com/upload/201901/12/201901121312133460.gif)  
 
-Install
+下载安装：
 
 git clone https://github.com/web-leilei/Vue-Router-Demo.git
 
