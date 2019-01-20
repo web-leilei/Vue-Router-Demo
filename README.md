@@ -1,6 +1,6 @@
 Demo预览
 
-![image](https://www.leileiqq.com/upload/201901/12/201901121312133460.gif)
+![image](https://www.leileiqq.com/upload/201901/20/201901202011581436.gif)
 
 下载安装：
 
